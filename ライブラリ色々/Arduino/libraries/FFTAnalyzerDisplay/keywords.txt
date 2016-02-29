@@ -1,0 +1,13 @@
+#
+# KEYWORD1
+#########################################
+
+FFTAnalyzerDisplay	KEYWORD1
+
+
+#
+# KEYWORD2
+########################################
+
+on			KEYWORD2
+off			KEYWORD2
